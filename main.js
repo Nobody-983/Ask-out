@@ -10,6 +10,6 @@ e.preventDefault()
     alert("Will you be my babe")
 })
 yes.addEventListener("click",()=>{
-    window.location.href = "about.html"
+    window.location.href = "Finally.html"
 })
 console.log(store);
