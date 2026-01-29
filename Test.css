@@ -1,0 +1,22 @@
+body{
+    background-image: url(background.jpeg);
+    color: aliceblue;
+    text-align: center;
+}
+#test{
+    text-align: center;
+    font-size: 40px;
+
+}
+#content-sec{
+    margin-top: 30%;
+    font-size: 20px;
+    padding: 1%;
+}
+input{
+    width: 30%;
+    padding: 1%;
+}
+#submit{
+    padding: 1%;
+}

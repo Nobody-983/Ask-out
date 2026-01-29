@@ -1,0 +1,12 @@
+body{
+    background-image: url(love.jpeg);
+    background-size:auto;
+    text-align: center;
+}
+h1{
+    margin-top: 20%;
+}
+button{
+    width: 10%;
+    padding: 1%;
+}
