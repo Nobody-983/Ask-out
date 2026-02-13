@@ -7,7 +7,7 @@ head.textContent = "Will you be my babe" + " " + store
 no.addEventListener("click",(e)=>{
 e.preventDefault()
 
-    alert("Will you be my babe")
+    alert("Will you be my val")
 })
 yes.addEventListener("click",()=>{
     window.location.href = "about.html"
